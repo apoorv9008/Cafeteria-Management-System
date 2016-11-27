@@ -1,0 +1,17 @@
+<!ELEMENT foodCategory (Specials,Appetizers,Soup,Salad,Entrees,Desserts,Beverage)>
+<!ELEMENT Specials (food+)>
+<!ELEMENT Appetizers (food+)>
+<!ELEMENT Soup (food+)>
+<!ELEMENT Salad (food+)>
+<!ELEMENT Entrees (food+)>
+<!ELEMENT Desserts (food+)>
+<!ELEMENT Beverage (food+)>
+
+<!ELEMENT food (foodName,foodPrice,food1Image,food2Image,foodDescription)>
+<!ELEMENT foodName (#PCDATA)>
+<!ELEMENT foodPrice (#PCDATA)>
+<!ELEMENT food1Image (#PCDATA)>
+<!ELEMENT food2Image (#PCDATA)>
+<!ELEMENT foodDescription (#PCDATA)>
+
+<!ATTLIST food id ID #REQUIRED>
