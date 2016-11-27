@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE List SYSTEM "customerslist.dtd">
+<List>
+    <customer>
+		<name>Jess</name>
+		<password>1234</password>
+		<address>3200 Market St</address>
+		<city>Philadelphia</city>
+		<zipcode>19104</zipcode>
+		<telephone>2151234567</telephone>
+		<lastorder>Barbecue Pizza, Peanut Salad</lastorder>
+		<favorites>Beef With Cherry, Chocolate Cake, Flavored Milk, Fruit Salad, Barbecue Pizza, Fresh Fruit Juice</favorites>
+    </customer>
+    
+    <customer>
+		<name>Fry James</name>
+		<password>thank you</password>
+		<address>1541 Wall Street</address>
+		<city>New York</city>
+		<zipcode>10005</zipcode>
+		<telephone>3246487930</telephone>
+		<lastorder/>
+		<favorites/>
+    </customer>
+<customer>
+        <name>julia</name>
+        <password>123456</password>
+        <address>NORTH</address>
+        <city>PHI</city>
+        <zipcode>19104</zipcode>
+        <telephone>1224343</telephone>
+        <lastorder>Fresh Fruit Juice, Oil Pancake</lastorder>
+        <favorites/>
+    </customer>
+</List>

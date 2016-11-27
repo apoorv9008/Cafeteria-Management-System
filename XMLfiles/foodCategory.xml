@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+ <!DOCTYPE foodCategory SYSTEM "foodCategory.dtd">
+<foodCategory>
+	<Specials>   
+            <food id="a1">
+		    <foodName>Beef With Cherry</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/beef1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/beef2.jpg</food2Image>
+		    <foodDescription>Beef With Cherry is a flat cut of beef, usually cut perpendicular to the muscle fibers. They are usually grilled, pan-fried, or broiled. The more tender cuts from the loin and rib are cooked quickly, using dry heat, and served whole. Less tender cuts from the chuck or round are cooked with moist heat or are mechanically tenderized.
+		    </foodDescription>
+	    </food>
+	    <food id="a2">
+		      <foodName>Humburger</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/humburger1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/humburger2.jpg</food2Image>
+		    <foodDescription>A hamburger (also called a hamburger sandwich, burger or hamburg) is a sandwich consisting of one or more cooked patties of ground meat (beef, pork, turkey, chicken, etc.) usually placed inside a sliced hamburger bun. Hamburgers are often served with lettuce, bacon, tomato, onion, pickles, cheese and condiments such as mustard, mayonnaise, ketchup and relish.
+		    </foodDescription>
+	    </food>
+	    <food id="a3">
+		     <foodName>Pancake Stackers</foodName>
+		    <foodPrice>7.00</foodPrice>
+		    <food1Image>/images/TodaySpecial/pancake stackers1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/pancake stackers2.jpg</food2Image>
+		    <foodDescription>They consist of: a layer of cheesecake sandwiched between two pancakes, available in strawberry, blueberry, or cinnamon apple, all topped with whipped cream. They will be available a la carte or as part of a combo meal, with eggs, hash browns, plus bacon, porks sausage links, or ham, which will tally up to 1,250 calories -- over twice that of a 540-calorie KFC Double Down. 
+
+		    </foodDescription>
+	    </food>
+	    <food id="a4">
+		      <foodName>Oil Pancake</foodName>
+		    <foodPrice>4.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/Oil Pancake1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/Oil Pancake2.jpg</food2Image>
+		    <foodDescription>A pancake, also known as a hotcake or flapjack is a flat cake, often thin, flat, and round, prepared from a starch-based batter and cooked on a hot surface such as griddle or frying pan. Pancakes may be served at any time with a variety of toppings or fillings including jam, fruit, syrup, chocolate chips, or meat. They are typically considered to be a breakfast food. 
+
+		    </foodDescription>
+	    </food>
+	    <food id="a5">
+		    <foodName>Barbecue Pizza</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/pizza1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/pizza2.jpg</food2Image>
+		    <foodDescription>Barbecue pizza is made with tasty toppings like natural grilled white meat chicken, cherrywood smoke-flavored barbecue sauce, fire-roasted red onions, caramelized onions, cilantro, and white cheddar and mozzarella cheeses, complemented by a smoky barbecue sauce and our thin stone-fired crust made with whole grains. Made with our signature blend of 7 Whole Grains and Sesame with flaxseed.
+
+		    </foodDescription>
+	    </food>
+	    <food id="a6">
+		    <foodName>Taco</foodName>
+		    <foodPrice>5.00</foodPrice>
+		    <food1Image>/images/TodaySpecial/taco1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/taco2.jpg</food2Image>
+		    <foodDescription>A taco is a traditional Mexican dish composed of a corn or wheat tortilla folded or rolled around a filling. A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, vegetables and cheese, allowing for great versatility and variety. A taco is generally eaten without utensils and is often accompanied by garnishes such as salsa, avocado or guacamole, cilantro, tomatoes, minced meat, onions and lettuce.
+		    </foodDescription>
+	    </food>
+	</Specials>
+        
+	<Appetizers>
+		 <food id="b1">
+		    <foodName>Cheese Balls and Sauce</foodName>
+		    <foodPrice>6.00</foodPrice>
+		    <food1Image>/images/Appetizers/Cheese Balls and Sauce1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/Cheese Balls and Sauce2.jpg</food2Image>
+		    <foodDescription>The cheese balls are a mixture of pecan meal, bread crumbs, cheese, and eggs. They are smothered in a tomato sauce, and baked to perfection. The balls have a crispy breadcrumb shell on the outside with soft luscious macaroni, and cheesy sauce that oozes out from the center. The generous dusting of cheese at the end brings it all together in a cheesy, crispy, creamy mouthful that is hard to resist.
+		    </foodDescription>
+	          </food>
+	            <food id="b2">
+		    <foodName>Mushroom-Scallop Skewers</foodName>
+		    <foodPrice>7.00</foodPrice>
+		    <food1Image>/images/Appetizers/Mushroom-Scallop Skewers1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/Mushroom-Scallop Skewers2.jpg</food2Image>
+		    <foodDescription>Smoky bacon and earthy mushrooms complement tender scallops in an appetizer that's ready in 25 minutes. Ingredients include: orange juice, packed brown sugar, grated orange peel, ground ginger, clove garlic, finely chopped, bay scallops, baby portabella mushrooms, stems removed, packaged precooked bacon, and fresh orange curls if desired.
+		    </foodDescription>
+	            </food>
+	    <food id="b3">
+		    <foodName>Cheese Berry</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Appetizers/Cheese Berry1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/Cheese Berry2.jpg</food2Image>
+		    <foodDescription>Use seasonal berries for this refreshing salad, matching tangy goat cheese with sweet berries, roasted red onions, walnuts and tomatoes. Ingredients include: red onion (halved and thinly sliced), canola oil, spring lettuce mix, walnuts (roughly chopped), yellow grape tomatoes (halved), mixed seasonal berries, goat cheese (crumbled), raspberry or sherry vinegar, and lemon juice.
+
+		    </foodDescription>
+	    </food>
+	    <food id="b4">
+		    <foodName>Lollipop</foodName>
+		    <foodPrice>6.00</foodPrice>
+		    <food1Image>/images/Appetizers/lollipop1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/lollipop2.jpg</food2Image>
+		    <foodDescription>A lollipop is a type of confectionery consisting mainly of hardened, flavored sucrose with corn syrup mounted on a stick and intended for sucking or licking. Different informal terms are used in different places, including lolly, sucker, sticky-pop, etc.  Lollipops are available in a number of colors and flavors, particularly fruit flavors.
+		    </foodDescription>
+	    </food>
+	    <food id="b5">
+		    <foodName>Original Nugget</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/Appetizers/nugget1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/nugget2.jpg</food2Image>
+		    <foodDescription>A chicken nugget is a chicken product made from either meat slurry or chicken breasts cut to shape, breaded or battered, then deep-fried or baked. Nuggets are typically fried in vegetable oil, such as coconut oil. We also have launched vegetarian alternatives. We serve Garden McNuggets made of beans and cabbage, and a dish containing nuggets made of falafel.
+		    </foodDescription>
+	    </food>
+	    <food id="b6">
+		    <foodName>Pork Carnitas</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Appetizers/pork carnitas1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/pork carnitas2.jpg</food2Image>
+		    <foodDescription>Carnitas is a dish made of braised or roasted and then fried or sauteed pork in Mexican cuisine. Pork carnitas are traditionally made using the heavily marbled, rich 'boston butt' or 'picnic ham' cuts of pork. Carnitas are typically served with chopped coriander leaves (cilantro) and diced onion, salsa, guacamole, tortillas, and refried beans (frijoles refritos).
+
+		    </foodDescription>
+	    </food> 
+	</Appetizers>
+        
+	<Soup>
+		<food id="c1">
+		    <foodName>Basil Cream</foodName>
+		    <foodPrice>4.00</foodPrice>
+		    <food1Image>/images/Soup/Basil cream1.jpg</food1Image>
+                    <food2Image>/images/Soup/Basil cream2.jpg</food2Image>
+		    <foodDescription>Chicken in a Basil Cream Sauce combines the simplicity of fried chicken with the powerful flavor of the fresh basil all engulfed in a Parmesan cream sauce. The chicken is fried in oil and placed over pasta after it is golden brown. Pour the delicious sauce over the top and enjoy. Chicken in a Basil Cream has such an amazing taste that it was almost work being sick.
+		    </foodDescription>
+	    </food>
+	    <food id="c2">
+		      <foodName>Roasted tomato carrot soup</foodName>
+		    <foodPrice>3.00</foodPrice>
+		    <food1Image>/images/Soup/Roasted tomato and carrot soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/Roasted tomato and carrot soup2.jpg</food2Image>
+		    <foodDescription>This thick soup is a nice balance of very slightly sweet and spicy flavours with a faint tang from the orange juice. Ingredients include: onions, tomatoes, big carrots, big red bell pepper (capsicum), orange juice (sweetened), milk, olive oil, garlic paste, cumin powder, garam masala, chilli flakes, and vegetable stock. The vegetables need to oven roasted.
+
+		    </foodDescription>
+	    </food>
+	    <food id="c3">
+		     <foodName>chicken-noodle-soup</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/Soup/chicken-noodle-soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/chicken-noodle-soup2.jpg</food2Image>
+		    <foodDescription>Classic chicken noodle soup is a comfort food suitable for any time of the year, but especially during cold winter months. Chicken Noodle Soup is chock-full of seasonal vegetables like leeks, carrots, celery, and onions. Slowly cooking a whole chicken, fragrant herbs, and fresh vegetables in chicken broth rather than water imparts a rich flavor to this soup.
+		    </foodDescription>
+	    </food>
+	    <food id="c4">
+		    <foodName>coconut-curry-squash-soup</foodName>
+		    <foodPrice>4.50</foodPrice>
+		    <food1Image>/images/Soup/coconut-curry-squash-soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/coconut-curry-squash-soup2.jpg</food2Image>
+		    <foodDescription>This soup is made with coconut milk, butternut squash, curry powder, and other vegetables and seasonings. This is a delicious fall soup with lots of flavor. Ingredients include: butternut squash (peeled, seeds removed, cut in 2-inch pieces), light coconut milk, vegetable broth or chicken broth, green onions (chopped), cloves garlic (minced), ginger puree, honey, curry powder and lime juice.
+
+		    </foodDescription>
+	    </food>
+	    <food id="c5">
+		    <foodName>hungarian goulash soup</foodName>
+		    <foodPrice>6.00</foodPrice>
+		    <food1Image>/images/Soup/hungarian goulash soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/hungarian goulash soup2.jpg</food2Image>
+		    <foodDescription>Goulash is a soup or stew of meat, noodles and vegetables, seasoned with paprika and other spices. Originating within the historical Hungarian ethnic area, goulash is also a popular meal in Central Europe, Scandinavia and Southern Europe. It is one of the national dishes of Hungary and a symbol of the country. Goulash can be prepared from beef, veal, pork, or lamb.
+
+		    </foodDescription>
+	    </food>
+	    <food id="c6">
+		    <foodName>tortilla soup</foodName>
+		    <foodPrice>7.50</foodPrice>
+		    <food1Image>/images/Soup/tortilla_soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/tortilla_soup2.jpg</food2Image>
+		    <foodDescription>Tortilla soup encompasses all the things people love in Mexican cooking. Do you like salsa? avocado? cilantro? fresh hot tortilla chips? Tortilla soup is like a soup version of enchilada, with chicken, tortilla chips, and avocado. We makes a particularly good �fire-roasted?canned tomato, which is well suited to Mexican dishes.
+		    </foodDescription>
+	    </food>
+	 </Soup>
+            
+        <Salad>
+            <food id="d1">
+		    <foodName>Chicken Salad</foodName>
+		    <foodPrice>4.50</foodPrice>
+		    <food1Image>/images/Salads/Chicken Salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/Chicken Salad2.jpg</food2Image>
+		    <foodDescription>Chicken salad is any salad that comprises chicken as a main ingredient. Other common ingredients may include mayonnaise, hard-boiled egg, celery, onion, pepper, pickles and a variety of mustards. It may be served on top of lettuce, tomato, avocado, or some combination of these. It may also refer to a garden salad with fried, grilled, or roasted chicken (usually cut up) on top.
+		    </foodDescription>
+	    </food>
+	    <food id="d2">
+		      <foodName>Fruit Salad</foodName>
+		    <foodPrice>5.00</foodPrice>
+		    <food1Image>/images/Salads/Fruit Salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/Fruit Salad2.jpg</food2Image>
+		    <foodDescription>Fruit salad is a dish consisting of various kinds of fruit, sometimes served in a liquid, either in their own juices or a syrup. When served as an appetizer or as a dessert, a fruit salad is sometimes known as a fruit cocktail or fruit cup. Common ingredients used in fruit salads include strawberries, pineapple, honeydew, watermelon, grapes, banana, and kiwifruit.
+		    </foodDescription>
+	    </food>
+	    <food id="d3">
+		     <foodName>pancake stackers</foodName>
+		    <foodPrice>4.50</foodPrice>
+		    <food1Image>/images/Salads/Onion Cucumber Salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/Onion Cucumber Salad2.jpg</food2Image>
+		    <foodDescription>They consist of: a layer of cheesecake sandwiched between two pancakes, available in strawberry, blueberry, or cinnamon apple, all topped with whipped cream. They will be available a la carte or as part of a combo meal, with eggs, hash browns, plus bacon, porks sausage links, or ham, which will tally up to 1,250 calories -- over twice that of a 540-calorie KFC Double Down.
+		    </foodDescription>
+	    </food>
+	    <food id="d4">
+		    <foodName>Cobb Salad</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Salads/cobb salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/cobb salad2.jpg</food2Image>
+		    <foodDescription>The Cobb salad is a main-dish American garden salad made from chopped salad greens (iceberg lettuce, watercress, endives, and Romaine lettuce), tomato, crisp bacon, boiled or roasted (not fried) chicken breast, hard-boiled egg, avocado, chives, Roquefort cheese, and red-wine vinaigrette. Black olives are also often included. 
+		    </foodDescription>
+	    </food>
+	    <food id="d5">
+		    <foodName>Green Salad</foodName>
+		    <foodPrice>4.50</foodPrice>
+		    <food1Image>/images/Salads/green salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/green salad2.jpg</food2Image>
+		    <foodDescription>A green salad is a salad consisting mostly of fresh vegetables. The base for the salad are greens such as lettuce or mesclun. The proper garden salad is served with a dressing, such as vinaigrette, French dressing, ranch dressing, honey mustard, Italian dressing, Thousand Island dressing, or blue cheese dressing.
+
+		    </foodDescription>
+	    </food>
+	    <food id="d6">
+		    <foodName>Peanut Salad</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Salads/Peanut Salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/Peanut Salad2.jpg</food2Image>
+		    <foodDescription>It is a raw vegetable salad in peanut sauce from West Java, Indonesia. It is one of the Sundanese signature dish. It is made from cucumbers, bean sprouts, cabbage, legumes, Thai basil, and small green eggplant, covered in peanut sauce dressing. It is very similar to gado-gado, except all the vegetables are raw, while most of gado-gado vegetables are boiled, and it uses kencur, Thai basil and eggplant. 
+		    </foodDescription>
+	    </food>
+        </Salad>
+        
+        <Entrees>
+            <food id="e1">
+		    <foodName>Greek Baked Macaroni</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Entrees/Greek Baked Macaroni1.jpg</food1Image>
+                    <food2Image>/images/Entrees/Greek Baked Macaroni2.jpg</food2Image>
+		    <foodDescription>This delicious baked macaroni dish from Greece is great pick for the whole family! Try it with tomatoes fresh from the garden. Ingredients include: ground beef, chopped parsley, cinnamon, tomato sauce, white wine, macaroni, Grated cheese (Parmesan), onion (chopped), garlic clove (minced), nutmeg, salt and pepper, eggs (beaten), and Bechamel Sauce. 
+		    </foodDescription>
+	    </food>
+	    <food id="e2">
+		      <foodName>Spaghetti Squash</foodName>
+		    <foodPrice>7.00</foodPrice>
+		    <food1Image>/images/Entrees/Spaghetti Squash1.jpg</food1Image>
+                    <food2Image>/images/Entrees/Spaghetti Squash2.jpg</food2Image>
+		    <foodDescription>The spaghetti squash is an oblong seed-bearing variety of winter squash. The fruit can range either from ivory to yellow or orange in color. The orange varieties have a higher carotene content. Its center contains many large seeds. Mild spaghetti squash is delicious with potent ingredients like the olives and feta in this lemony salad, which makes a wonderful starter or side dish. 
+		    </foodDescription>
+	    </food>
+	    <food id="e3">
+		     <foodName>Chicken Tender</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/Entrees/chicken tender1.jpg</food1Image>
+                    <food2Image>/images/Entrees/chicken tender2.jpg</food2Image>
+		    <foodDescription>Chicken tenders are chicken meat prepared from the pectoralis minor muscles of the animal. These strips of white meat are located on either side of the breastbone, under the breast meat (pectoralis major). Chicken tenders are prepared by dipping chicken meat in a breading mixture and then deep frying them, in a manner similar to the preparation of Schnitzel.
+
+		    </foodDescription>
+	    </food>
+	    <food id="e4">
+		      <foodName>Sesame Noodles</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Entrees/Sesame Noodles1.jpg</food1Image>
+                    <food2Image>/images/Entrees/Sesame Noodles2.jpg</food2Image>
+		    <foodDescription>Sesame Noodle is a seasonal noodle dish served in a cold soy milk broth. It comprises noodles made with wheat flour and soup made from ground soybeans. Peanut butter, sesame paste, and chile-garlic paste combine to make a silky, savory sauce for these noodles. Chopped peanuts and a flurry of slivered cucumber and carrot add crunch.
+		    </foodDescription>
+	    </food>
+	    <food id="e5">
+		    <foodName>Sandwich</foodName>
+		    <foodPrice>5.00</foodPrice>
+		    <food1Image>/images/Entrees/sandwich1.jpg</food1Image>
+                    <food2Image>/images/Entrees/sandwich2.jpg</food2Image>
+		    <foodDescription>A sandwich is a food item commonly consisting of two or more slices of bread, with one or more fillings between them. Sandwiches are a widely popular type of lunch food, typically taken to work, school, or picnics to be eaten as part of a packed lunch. The bread can be used as it is, or it can be coated with any condiments to enhance flavour and texture. They are served hot or cold.
+		    </foodDescription>
+	    </food>
+	    <food id="e6">
+		    <foodName>Steak</foodName>
+		    <foodPrice>6.50</foodPrice>
+		    <food1Image>/images/Entrees/steak1.jpg</food1Image>
+                    <food2Image>/images/Entrees/steak2.jpg</food2Image>
+		    <foodDescription>A steak is generally a cut of beef sliced perpendicular to the muscle fibers, or of fish cut perpendicular to the spine. Meat steaks are usually grilled, pan-fried, or broiled, while fish steaks may also be baked. Steak can also be meat cooked in sauce, such as steak and kidney pie, or minced meat formed into a steak shape, such as Salisbury steak and hamburger steak. 
+
+		    </foodDescription>
+	    </food>
+        </Entrees>
+        
+        <Desserts>
+            <food id="f1">
+		    <foodName>Chocolate Cream Cookies</foodName>
+		    <foodPrice>6.00</foodPrice>
+		    <food1Image>/images/Desserts/Chocolate Cookies with Cream1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Chocolate Cookies with Cream2.jpg</food2Image>
+		    <foodDescription>Slightly crunchy chocolaty outside, classic Italian hazelnut-chocolate cream filling. A lovely deep chocolate flavor. A buttery crisp texture. And a delicious buttery sweet cream filling. That is a Chocolate Cream Cookie. This is a sandwich cookie at its best. Chocolate cookie chunks burst through every creamy chocolate scoop!
+
+
+		    </foodDescription>
+	    </food>
+	    <food id="f2">
+		      <foodName>Sticky Toffee Pudding</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/Desserts/Sticky Toffee Pudding1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Sticky Toffee Pudding2.jpg</food2Image>
+		    <foodDescription>Sticky toffee pudding is a British steamed dessert consisting of a very moist sponge cake, made with finely chopped dates, covered in a toffee sauce and often served with a vanilla custard or vanilla ice-cream. It is considered a modern British �classic?by various British experts, alongside Bread and butter pudding, Jam Roly-Poly and Spotted Dick puddings.
+		    </foodDescription>
+	    </food>
+	    <food id="f3">
+		     <foodName>Cheesecake</foodName>
+		    <foodPrice>4.00</foodPrice>
+		    <food1Image>/images/Desserts/cheesecake1.jpg</food1Image>
+                    <food2Image>/images/Desserts/cheesecake2.jpg</food2Image>
+		    <foodDescription>Cheesecake is a sweet dish consisting of two or more layers. The main, or thickest layer, consists of a mixture of soft, fresh cheese, eggs, and sugar; the bottom layer is often a crust or base made from crushed cookies, graham crackers, pastry, or sponge cake. It can be prepared in many flavors: strawberry, pumpkin, key lime, chestnut, or toffee.
+		    </foodDescription>
+	    </food>
+	    <food id="f4">
+		      <foodName>Chocolate Cake</foodName>
+		    <foodPrice>3.50</foodPrice>
+		    <food1Image>/images/Desserts/chocolate cake1.jpg</food1Image>
+                    <food2Image>/images/Desserts/chocolate cake2.jpg</food2Image>
+		    <foodDescription>It is a popular coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of egg yolks, egg whites, sugar and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of puddings, cakes and other desserts. Countless variations for Chocolate Cake exist.
+		    </foodDescription>
+	    </food>
+	    <food id="f5">
+		    <foodName>Chocolate Strawberry</foodName>
+		    <foodPrice>5.50</foodPrice>
+		    <food1Image>/images/Desserts/chocolate strawberry1.jpg</food1Image>
+                    <food2Image>/images/Desserts/chocolate strawberry2.jpg</food2Image>
+		    <foodDescription>Chocolate strawberries are beautiful to look at and wonderful to eat! During strawberry season, I like to serve chocolate strawberries are served as a finale to dinner, as decorations for cakes, and at my family's annual Mother's Day Afternoon Tea. Try serving chocolate strawberries with champagne or your favorite red wine. Since we grow pinot noir grapes, I naturally like to serve pinot noir wine. 
+		    </foodDescription>
+	    </food>
+	    <food id="f6">
+		    <foodName>Donut</foodName>
+		    <foodPrice>2.50</foodPrice>
+		    <food1Image>/images/Desserts/donut1.jpg</food1Image>
+                    <food2Image>/images/Desserts/donut2.jpg</food2Image>
+		    <foodDescription>A donut is a type of fried dough confectionery or dessert food. Donuts are usually deep-fried from a flour dough, and typically either ring-shaped or without a hole and often filled. Other types of batters can also be used, and various toppings and flavorings are used for different types, such as sugar, chocolate, or maple glazing.
+		    </foodDescription>
+	    </food>
+        </Desserts>
+        
+        <Beverage>
+            <food id="g1">
+		    <foodName>Fresh Fruit Juice</foodName>
+		    <foodPrice>3.00</foodPrice>
+		    <food1Image>/images/Beverage/Fresh Fruit Juice1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Fresh Fruit Juice2.jpg</food2Image>
+		    <foodDescription>Fruit Juice is prepared by mechanically squeezing or macerating fruit flesh without the application of heat or solvents. Juice are prepared from fresh fruit and vegetables using a variety of hand or electric juicers. Juice is one of the most popular drinks to go with breakfast in the morning. Juices are often consumed for their perceived health benefits.
+		    </foodDescription>
+	    </food>
+	    <food id="g2">
+		      <foodName>Green Tea</foodName>
+		    <foodPrice>2.50</foodPrice>
+		    <food1Image>/images/Beverage/Green Tea1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Green Tea2.jpg</food2Image>
+		    <foodDescription>Green tea is made from the leaves from Camellia sinensis that have undergone minimal oxidation during processing. Green tea originated in China, but it has become associated with many cultures throughout Asia. Green tea has recently become more widespread in the West, where black tea has been the traditionally consumed tea.
+		    </foodDescription>
+	    </food>
+	    <food id="g3">
+		     <foodName>Ice Coca-Cola</foodName>
+		    <foodPrice>2.00</foodPrice>
+		    <food1Image>/images/Beverage/Ice Coca-Cola1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Ice Coca-Cola2.jpg</food2Image>
+		    <foodDescription>Coca-Cola is a carbonated soft drink produced by The Coca-Cola Company of Atlanta, Georgia, and is often referred to simply as Coke. The Coca-Cola Company has introduced other cola drinks, including Diet Coke, Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime or coffee.
+		    </foodDescription>
+	    </food>
+	    <food id="g4">
+		      <foodName>Flavored Milk</foodName>
+		    <foodPrice>3.00</foodPrice>
+		    <food1Image>/images/Beverage/Milk1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Milk2.jpg</food2Image>
+		    <foodDescription>Flavored milk is a sweetened dairy drink made with milk, sugar, colorings and artificial or natural flavorings. Flavored milk is often pasteurized using ultra-high-temperature (UHT) treatment, which gives it a longer shelf-life than plain milk. Pre-mixed flavored milk is sold in the refrigerated dairy case alongside other milk products.
+		    </foodDescription>
+	    </food>
+	    <food id="g5">
+		    <foodName>Supreme Coffee</foodName>
+		    <foodPrice>5.00</foodPrice>
+		    <food1Image>/images/Beverage/Supreme Coffee1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Supreme Coffee2.jpg</food2Image>
+		    <foodDescription>Coffee is a brewed beverage prepared from the roasted seeds of several species of an evergreen shrub of the genus Coffea. Coffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. It is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways.
+		    </foodDescription>
+	    </food>
+	    <food id="g6">
+		    <foodName>Vegetable Juice</foodName>
+		    <foodPrice>2.50</foodPrice>
+		    <food1Image>/images/Beverage/Vegetable Juice1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Vegetable Juice2.jpg</food2Image>
+		    <foodDescription>Vegetable juice is a drink made primarily of blended vegetables and also available in the form of powders. Vegetable juices are commonly made from varying combinations of carrots, beets, pumpkin, and tomatoes. Vegetable juice is often mixed with fruits such as tomatoes or grapes to improve flavor. It is often touted as a low-sugar alternative to fruit juice.
+		    </foodDescription>
+	    </food>
+        </Beverage>
+</foodCategory>
